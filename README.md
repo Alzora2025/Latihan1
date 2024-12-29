@@ -27,3 +27,7 @@ Buat folder templatesdi direktori yang sama dengan file Python.
 Tambahkan dua file:
 •upload.html : Formulir untuk mengunggah file.
 •dashboard.html : Template untuk menampilkan hasil analisis.
+
+5.Jalankan Aplikasi:
+• python app.py
+• Akses di browser: http://127.0.0.1 : 5000 
